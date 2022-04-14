@@ -151,7 +151,7 @@ namespace CalculatorGUI
 
         class Programs
         {
-            static void Main(string[] args)
+            static void MainMenu(string[] args)
             {
                 bool showMenu = true;
                 while (showMenu)
